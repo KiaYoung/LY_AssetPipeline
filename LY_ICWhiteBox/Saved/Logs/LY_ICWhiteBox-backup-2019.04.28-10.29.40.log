@@ -1,0 +1,593 @@
+﻿Log file open, 04/28/19 10:26:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LY_ICWhiteBox
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.383188
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.222s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.28-16.26.36:919][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.28-16.26.36:919][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.28-16.26.36:986][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.28-16.26.36:986][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.28-16.26.36:986][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.28-16.26.36:987][  0]LogInit: Computer: DESKTOP-4HEA2F2
+[2019.04.28-16.26.36:987][  0]LogInit: User: darkn
+[2019.04.28-16.26.36:987][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.28-16.26.36:987][  0]LogInit: High frequency timer resolution =2.249996 MHz
+[2019.04.28-16.26.36:988][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.04.28-16.26.36:988][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.28-16.26.36:989][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2019.04.28-16.26.36:989][  0]LogMemory: Process Virtual Memory: 85.52 MB used, 85.52 MB peak
+[2019.04.28-16.26.36:989][  0]LogMemory: Physical Memory: 6456.06 MB used,  1578.24 MB free, 8034.30 MB total
+[2019.04.28-16.26.36:989][  0]LogMemory: Virtual Memory: 4639.73 MB used,  1578.24 MB free, 134217728.00 MB total
+[2019.04.28-16.26.37:062][  0]LogInit: Using OS detected language (en-US).
+[2019.04.28-16.26.37:062][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.28-16.26.37:066][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.28-16.26.38:017][  0]LogStreaming: Display: Took  0.956s to InitEngineTextLocalization.
+[2019.04.28-16.26.38:018][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.28-16.26.38:081][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.28-16.26.38:081][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.28-16.26.38:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.28-16.26.38:425][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.28-16.26.38:508][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.04.28-16.26.38:508][  0]LogD3D11RHI:       4029/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.28-16.26.38:529][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.28-16.26.38:529][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.28-16.26.38:531][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.28-16.26.38:531][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.28-16.26.38:531][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.28-16.26.38:574][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.28-16.26.38:574][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.04.28-16.26.38:575][  0]LogWindows: EnumDisplayDevices:
+[2019.04.28-16.26.38:575][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.28-16.26.38:575][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.28-16.26.38:576][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.28-16.26.38:576][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.04.28-16.26.38:576][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.04.28-16.26.38:576][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.04.28-16.26.38:576][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2019.04.28-16.26.38:576][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2019.04.28-16.26.38:576][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2019.04.28-16.26.38:612][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.28-16.26.38:625][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.28-16.26.38:626][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Intermediate/Shaders/WorkingDirectory/25284/).
+[2019.04.28-16.26.38:626][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkn/AppData/Local/Temp/UnrealShaderWorkingDir/F19A0E7B4CEFBD2F6FDAAC85BFD43A14/'.
+[2019.04.28-16.26.39:028][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.28-16.26.39:057][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.28-16.26.39:086][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.28-16.26.39:113][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.28-16.26.39:142][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.28-16.26.39:171][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.28-16.26.39:193][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.28-16.26.39:213][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.28-16.26.39:224][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:337][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.28-16.26.39:339][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.28-16.26.39:416][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.28-16.26.39:416][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.28-16.26.39:474][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.28-16.26.39:474][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.28-16.26.39:506][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.28-16.26.39:527][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.28-16.26.39:547][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.28-16.26.39:568][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.28-16.26.39:583][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.28-16.26.39:583][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.28-16.26.39:725][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.28-16.26.39:725][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.28-16.26.39:725][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.28-16.26.41:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.28-16.26.41:755][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/darkn/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.28-16.26.41:756][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darkn/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.28-16.26.41:756][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.28-16.26.41:756][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.28-16.26.41:756][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.28-16.26.41:757][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.28-16.26.41:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.28-16.26.41:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.28-16.26.41:809][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.28-16.26.41:809][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.28-16.26.41:851][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.28-16.26.41:854][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.28-16.26.41:856][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.28-16.26.42:009][  0]LogAssetRegistry: FAssetRegistry took 0.0326 seconds to start up
+[2019.04.28-16.26.42:718][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.28-16.26.43:017][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.28-16.26.43:024][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.28-16.26.43:024][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.28-16.26.43:024][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.28-16.26.43:024][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.28-16.26.43:045][  0]LogNetVersion: LY_ICWhiteBox 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3295391644)
+[2019.04.28-16.26.44:170][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.322737 seconds
+[2019.04.28-16.26.44:190][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.28-16.26.44:190][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.04.28-16.26.44:190][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.28-16.26.52:448][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.28-16.26.52:463][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.28-16.26.52:794][  0]SourceControl: Source control is disabled
+[2019.04.28-16.26.52:794][  0]SourceControl: Source control is disabled
+[2019.04.28-16.26.52:798][  0]SourceControl: Source control is disabled
+[2019.04.28-16.26.52:801][  0]SourceControl: Source control is disabled
+[2019.04.28-16.26.53:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.28-16.26.53:280][  0]LogOcInput: OculusInput pre-init called
+[2019.04.28-16.26.53:607][  0]LogEngine: Initializing Engine...
+[2019.04.28-16.26.53:610][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.28-16.26.53:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.28-16.26.53:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.28-16.26.53:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.28-16.26.53:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.28-16.26.54:094][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.28-16.26.54:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.28-16.26.54:278][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.28-16.26.54:331][  0]LogInit: FAudioDevice initialized.
+[2019.04.28-16.26.54:331][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.28-16.26.54:480][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/darkn/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.28-16.26.54:529][  0]LogInit: Texture streaming: Enabled
+[2019.04.28-16.26.54:609][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.28-16.26.54:684][  0]LogInit: Transaction tracking system initialized
+[2019.04.28-16.26.54:776][  0]BlueprintLog: New page: Editor Load
+[2019.04.28-16.26.54:957][  0]LocalizationService: Localization service is disabled
+[2019.04.28-16.26.55:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.28-16.26.55:452][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.28-16.26.55:452][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.28-16.26.55:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.28-16.26.55:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.28-16.26.55:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.28-16.26.55:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.28-16.26.55:750][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Content/' took 0.02s
+[2019.04.28-16.26.55:767][  0]SourceControl: Source control is disabled
+[2019.04.28-16.26.55:767][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-16.26.55:767][  0]LightingResults: New page: Lighting Build
+[2019.04.28-16.26.55:774][  0]MapCheck: New page: Map Check
+[2019.04.28-16.26.55:775][  0]LightingResults: New page: Lighting Build
+[2019.04.28-16.26.56:169][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.28-16.26.56:181][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.28-16.26.56:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-16.26.56:342][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.343ms to complete.
+[2019.04.28-16.26.56:342][  0]LogFileHelpers: Loading map 'Template_Default' took 0.575
+[2019.04.28-16.26.56:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-16.26.56:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-16.26.56:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-16.26.56:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.28-16.26.56:531][  0]LogCollectionManager: Loaded 0 collections in 0.003812 seconds
+[2019.04.28-16.26.56:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Saved/Collections/' took 0.01s
+[2019.04.28-16.26.56:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Content/Developers/darkn/Collections/' took 0.01s
+[2019.04.28-16.26.56:584][  0]LogFileCache: Scanning file cache for directory 'C:/Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Content/Collections/' took 0.01s
+[2019.04.28-16.26.56:584][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.28-16.26.56:599][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2572 classes and 603 folders.
+[2019.04.28-16.26.56:612][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.28-16.26.57:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.28-16.26.57:429][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.28-16.26.57:480][  0]LogSlate: Took 0.017346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.28-16.26.57:496][  0]LogSlate: Took 0.009498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.28-16.26.57:515][  0]LogSlate: Took 0.009546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.28-16.26.57:661][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.04.28-16.26.57:969][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.28-16.26.57:969][  0]LogLoad: (Engine Initialization) Total time: 27.62 seconds
+[2019.04.28-16.26.57:969][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.28-16.26.58:026][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.28-16.26.59:147][ 24]LogAssetRegistry: Asset discovery search completed in 17.1610 seconds
+[2019.04.28-16.26.59:154][ 24]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.28-16.26.59:154][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000160 seconds (updated 0 objects)
+[2019.04.28-16.27.02:182][ 33]LogSlate: Took 0.016832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.28-16.27.10:965][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.28-16.27.13:692][242]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.28-16.27.18:957][242]LogTexture: Display: Building textures: WoodText5 (AutoDXT, 1024X1024)
+[2019.04.28-16.27.18:957][242]LogTexture: Display: Building textures: WoodText5 (AutoDXT, 1024X1024)
+[2019.04.28-16.27.18:957][242]LogTexture: Display: Building textures: WoodText5 (AutoDXT, 1024X1024)
+[2019.04.28-16.27.18:957][242]LogTexture: Display: Building textures: WoodText6 (AutoDXT, 2048X2048)
+[2019.04.28-16.27.18:958][242]LogTexture: Display: Building textures: WoodText9 (AutoDXT, 2048X2048)
+[2019.04.28-16.27.18:958][242]LogTexture: Display: Building textures: WoodText5 (AutoDXT, 1024X1024)
+[2019.04.28-16.27.19:946][242]LogMaterial: Display: Missing cached shader map for material lambert22SG, compiling. 
+[2019.04.28-16.27.20:101][242]LogTexture: Display: Building textures: WoodText2 (AutoDXT, 512X512)
+[2019.04.28-16.27.20:133][242]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.28-16.27.20:133][242]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.28-16.27.20:133][242]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-16.27.20:133][242]LogStaticMesh: Building static mesh GazeboRoofMid...
+[2019.04.28-16.27.20:227][242]LogStaticMesh: Built static mesh [0.09s] /Game/LY_Gazebo/GazeboRoofMid.GazeboRoofMid
+[2019.04.28-16.27.20:246][242]LogStaticMesh: Building static mesh BigBldg...
+[2019.04.28-16.27.20:270][242]LogStaticMesh: Built static mesh [0.02s] /Game/LY_Bldg/BigBldg.BigBldg
+[2019.04.28-16.27.23:097][242]LogMaterial: Display: Missing cached shader map for material lambert6SG, compiling. 
+[2019.04.28-16.27.23:128][242]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.28-16.27.23:128][242]LogMaterial: Display: Missing cached shader map for material lambert15SG, compiling. 
+[2019.04.28-16.27.23:205][242]LogMaterial: Display: Missing cached shader map for material lambert5SG, compiling. 
+[2019.04.28-16.27.23:290][242]LogMaterial: Display: Missing cached shader map for material lambert17SG, compiling. 
+[2019.04.28-16.27.23:319][242]LogStaticMesh: Building static mesh WalkWay...
+[2019.04.28-16.27.23:332][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_WalkWay/WalkWay.WalkWay
+[2019.04.28-16.27.23:338][242]LogStaticMesh: Building static mesh BigGateWall...
+[2019.04.28-16.27.23:348][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Wall/BigGateWall.BigGateWall
+[2019.04.28-16.27.23:354][242]LogStaticMesh: Building static mesh InnerWall...
+[2019.04.28-16.27.23:363][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Wall/InnerWall.InnerWall
+[2019.04.28-16.27.23:370][242]LogMaterial: Display: Missing cached shader map for material lambert11SG, compiling. 
+[2019.04.28-16.27.23:400][242]LogStaticMesh: Building static mesh OuterWall...
+[2019.04.28-16.27.23:409][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Wall/OuterWall.OuterWall
+[2019.04.28-16.27.23:416][242]LogMaterial: Display: Missing cached shader map for material lambert12SG, compiling. 
+[2019.04.28-16.27.23:461][242]LogStaticMesh: Building static mesh GazeboRoofTop...
+[2019.04.28-16.27.23:523][242]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.04.28-16.27.23:523][242]LogStaticMesh: Built static mesh [0.06s] /Game/LY_Gazebo/GazeboRoofTop.GazeboRoofTop
+[2019.04.28-16.27.23:537][242]LogStaticMesh: Building static mesh BigSupport...
+[2019.04.28-16.27.23:546][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Support/BigSupport.BigSupport
+[2019.04.28-16.27.23:552][242]LogMaterial: Display: Missing cached shader map for material lambert18SG, compiling. 
+[2019.04.28-16.27.23:581][242]LogMaterial: Display: Missing cached shader map for material lambert16SG, compiling. 
+[2019.04.28-16.27.23:609][242]LogStaticMesh: Building static mesh BldgFloor...
+[2019.04.28-16.27.23:618][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Bldg/BldgFloor.BldgFloor
+[2019.04.28-16.27.23:628][242]LogStaticMesh: Building static mesh Bridge...
+[2019.04.28-16.27.23:647][242]LogStaticMesh: Built static mesh [0.02s] /Game/LY_WalkWay/Bridge.Bridge
+[2019.04.28-16.27.23:654][242]LogMaterial: Display: Missing cached shader map for material lambert7SG, compiling. 
+[2019.04.28-16.27.24:240][242]LogStaticMesh: Building static mesh GazeboFloor...
+[2019.04.28-16.27.24:316][242]LogStaticMesh: Built static mesh [0.08s] /Game/LY_Gazebo/GazeboFloor.GazeboFloor
+[2019.04.28-16.27.24:332][242]LogStaticMesh: Building static mesh SmallBldg...
+[2019.04.28-16.27.24:340][242]LogStaticMesh: Built static mesh [0.01s] /Game/LY_Bldg/SmallBldg.SmallBldg
+[2019.04.28-16.27.24:386][242]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.27.24:420][242]LogAIModule: Creating AISystem for world LY_ICWhiteBox
+[2019.04.28-16.27.24:880][242]LogAssetEditorManager: Opening Asset editor for World /Game/LY_ICWhiteBox.LY_ICWhiteBox
+[2019.04.28-16.27.24:990][242]Cmd: MAP LOAD FILE="../../../../../../Users/darkn/Documents/GitHub/LY_AssetPipeline/LY_ICWhiteBox/Content/LY_ICWhiteBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.28-16.27.24:990][242]LightingResults: New page: Lighting Build
+[2019.04.28-16.27.24:991][242]LoadErrors: New page: Loading map: LY_ICWhiteBox.umap
+[2019.04.28-16.27.25:032][242]MapCheck: New page: Map Check
+[2019.04.28-16.27.25:032][242]LightingResults: New page: Lighting Build
+[2019.04.28-16.27.25:576][242]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.04.28-16.27.25:598][242]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.04.28-16.27.25:764][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.28-16.27.25:941][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.484ms to complete.
+[2019.04.28-16.27.25:966][242]LogFileHelpers: Loading map 'LY_ICWhiteBox' took 0.979
+[2019.04.28-16.27.27:250][253]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.04.28-16.27.27:250][253]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.04.28-16.27.28:245][267]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.04.28-16.27.29:097][280]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.04.28-16.27.30:804][313]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.04.28-16.27.32:621][355]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.04.28-16.27.33:040][364]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.04.28-16.27.33:459][373]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.04.28-16.27.35:220][414]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.04.28-16.27.36:774][450]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.04.28-16.27.37:624][469]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.04.28-16.27.38:930][494]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.04.28-16.27.39:052][496]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.28-16.27.40:800][535]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.04.28-16.27.42:942][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.28-16.27.42:958][583]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.28-16.27.44:692][622]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.28-16.27.45:907][650]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.28-16.27.47:337][682]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.28-16.28.40:786][132]LogAssetEditorManager: Opening Asset editor for Material /Game/LY_Bldg/lambert10SG.lambert10SG
+[2019.04.28-16.28.40:793][132]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.28.42:140][132]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.28.42:166][132]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.28.42:191][132]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.28-16.28.42:191][132]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.28-16.28.42:191][132]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.28-16.28.42:191][132]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.28-16.28.42:220][132]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.04.28-16.28.42:370][132]LogSlate: Took 0.022622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.28-16.28.43:294][147]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.28-16.28.43:377][149]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.28-16.28.43:379][149]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.28-16.28.43:394][149]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.28-16.28.43:647][154]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.28-16.28.43:679][155]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.28-16.28.43:745][156]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.28-16.28.43:765][157]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.28-16.28.44:023][162]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.28-16.28.44:320][167]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.28-16.28.44:502][170]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.28-16.28.44:607][172]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.28-16.28.44:804][176]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.28-16.28.44:972][179]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.28-16.28.45:119][182]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-16.28.45:415][187]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.28-16.28.45:470][188]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-16.28.45:707][192]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-16.28.45:855][194]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-16.28.46:263][200]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.04.28-16.28.46:263][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.04.28-16.28.46:263][200]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.04.28-16.28.46:264][200]MaterialEditorStats: Texture samplers: 4/16
+[2019.04.28-16.28.46:264][200]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.04.28-16.28.46:264][200]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.04.28-16.28.59:598][330]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.28.59:736][331]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.28-16.28.59:736][331]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.28-16.28.59:736][331]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.28-16.28.59:736][331]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.28-16.29.00:110][342]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.28-16.29.00:132][342]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.28-16.29.00:157][343]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.28-16.29.00:157][343]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.28-16.29.00:410][347]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.28-16.29.00:441][348]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.28-16.29.00:455][348]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.28-16.29.00:480][349]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.28-16.29.00:721][354]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.28-16.29.00:907][358]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.28-16.29.01:169][363]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.28-16.29.01:219][364]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.28-16.29.01:440][368]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-16.29.01:610][371]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.28-16.29.01:643][372]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-16.29.01:976][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-16.29.02:029][379]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-16.29.02:633][395]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.04.28-16.29.02:633][395]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.04.28-16.29.02:633][395]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.28-16.29.02:633][395]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.28-16.29.04:505][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSampleParameter2D'"MaterialGraphNode_17.MaterialExpressionTextureSampleParameter2D_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.04.28-16.29.04:506][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_5.MaterialExpressionMultiply_1"')'
+[2019.04.28-16.29.04:508][434]LogLinker: Can't find file '/Engine/Transient'
+[2019.04.28-16.29.04:508][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:511][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:513][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:514][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:517][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_15.MaterialExpressionAdd_0"')'
+[2019.04.28-16.29.04:518][434]LogLinker: Can't find file '/Game/Textures/LY_WoodTileable001Normal'
+[2019.04.28-16.29.04:519][434]LogLinker: Can't find file '/Game/Textures/LY_WoodTileable001Normal'
+[2019.04.28-16.29.04:519][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Textures/LY_WoodTileable001Normal.LY_WoodTileable001Normal"''
+[2019.04.28-16.29.04:520][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:522][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_16.MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.04.28-16.29.04:522][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSampleParameter2D'"MaterialGraphNode_6.MaterialExpressionTextureSampleParameter2D_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2019.04.28-16.29.04:523][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:524][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_15.MaterialExpressionAdd_0"')'
+[2019.04.28-16.29.04:525][434]LogLinker: Can't find file '/Game/Textures/LY_WoodTileable001'
+[2019.04.28-16.29.04:525][434]LogLinker: Can't find file '/Game/Textures/LY_WoodTileable001'
+[2019.04.28-16.29.04:526][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Textures/LY_WoodTileable001.LY_WoodTileable001"''
+[2019.04.28-16.29.04:526][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:528][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:531][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:532][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:534][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:535][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:536][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_8.MaterialExpressionScalarParameter_0"')'
+[2019.04.28-16.29.04:536][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_9.MaterialExpressionScalarParameter_1"')'
+[2019.04.28-16.29.04:537][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:538][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'"MaterialGraphNode_7.MaterialExpressionTextureCoordinate_0"')'
+[2019.04.28-16.29.04:539][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_12.MaterialExpressionAppendVector_0"')'
+[2019.04.28-16.29.04:540][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:541][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_10.MaterialExpressionScalarParameter_2"')'
+[2019.04.28-16.29.04:541][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_11.MaterialExpressionScalarParameter_3"')'
+[2019.04.28-16.29.04:542][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:543][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_13.MaterialExpressionMultiply_0"')'
+[2019.04.28-16.29.04:544][434]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'"MaterialGraphNode_14.MaterialExpressionAppendVector_1"')'
+[2019.04.28-16.29.04:544][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:547][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:549][434]LogLinker: Can't find file '/Game/Textures/BlackText'
+[2019.04.28-16.29.04:550][434]LogLinker: Can't find file '/Game/Textures/BlackText'
+[2019.04.28-16.29.04:550][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'"/Game/Textures/BlackText.BlackText"''
+[2019.04.28-16.29.04:550][434]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.LY_M_WoodMaster"''
+[2019.04.28-16.29.04:609][434]LogMaterial: Display: Missing cached shader map for material lambert10SG, compiling. 
+[2019.04.28-16.29.04:675][434]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.28-16.29.04:675][434]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.28-16.29.04:675][434]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.28-16.29.04:675][434]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.28-16.29.04:676][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.04.28-16.29.04:683][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.04.28-16.29.04:690][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2019.04.28-16.29.04:713][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.04.28-16.29.04:735][434]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.04.28-16.29.04:923][435]LogSlate: Took 0.009848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.28-16.29.05:187][442]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.28-16.29.05:204][442]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.28-16.29.05:236][443]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.28-16.29.05:236][443]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.28-16.29.05:497][448]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.28-16.29.05:532][449]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.28-16.29.05:538][449]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.28-16.29.05:552][449]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.28-16.29.05:829][455]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.28-16.29.06:009][458]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.28-16.29.06:275][462]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.28-16.29.06:275][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.28-16.29.06:541][465]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.28-16.29.06:734][470]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.28-16.29.06:743][470]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.28-16.29.07:050][476]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.28-16.29.07:131][477]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.28-16.29.07:416][483]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.28-16.29.07:416][483]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.28-16.29.07:552][487]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.28-16.29.07:703][490]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.28-16.29.09:850][533]MaterialEditorStats: Base pass shader: 99 instructions
+[2019.04.28-16.29.09:850][533]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2019.04.28-16.29.09:850][533]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.04.28-16.29.09:850][533]MaterialEditorStats: Texture samplers: 3/16
+[2019.04.28-16.29.21:570][600]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:146 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.04.28-16.29.21:570][600]LogD3D11RHI: [Aftermath] GDynamicRHI=00000157F10480C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.04.28-16.29.21:570][600]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.04.28-16.29.27:006][600]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.04.28-16.29.27:009][600]LogWindows: Error: === Critical error: ===
+[2019.04.28-16.29.27:009][600]LogWindows: Error: 
+[2019.04.28-16.29.27:009][600]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.04.28-16.29.27:009][600]LogWindows: Error: Rendering thread exception:
+[2019.04.28-16.29.27:009][600]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 200] 
+[2019.04.28-16.29.27:010][600]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2019.04.28-16.29.27:010][600]LogWindows: Error: 
+[2019.04.28-16.29.27:010][600]LogWindows: Error: 
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fffb413a388 KERNELBASE.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff7d636850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff411c62fc UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff411551db UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e40adea UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e40e6e4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e3e5951 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e3fabf8 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff7d6cb106 UE4Editor-RHI.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e1a1b42 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff2e1a7d0a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.04.28-16.29.27:010][600]LogWindows: Error: [Callstack] 0x00007fff40fe1f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fff40fe2456 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fff7d9175f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fff7d918574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fff41426b7c UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fff414217c7 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fffb6634034 KERNEL32.DLL!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: [Callstack] 0x00007fffb7963691 ntdll.dll!UnknownFunction []
+[2019.04.28-16.29.27:011][600]LogWindows: Error: 
+[2019.04.28-16.29.27:011][600]LogWindows: Error: 
+[2019.04.28-16.29.27:011][600]LogWindows: Error: 
+[2019.04.28-16.29.27:011][600]LogWindows: Error: 
+[2019.04.28-16.29.27:049][600]LogExit: Executing StaticShutdownAfterError
+[2019.04.28-16.29.27:077][600]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.04.28-16.29.27:082][600]Log file closed, 04/28/19 10:29:27
