@@ -1,70 +1,68 @@
-newmtl Blah:initialShadingGroup
+newmtl Vehicle2:lambert2SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Cart:initialShadingGroup
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert3SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl initialShadingGroup
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert4SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl lambert2SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert5SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl lambert3SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert6SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
 Ni 1.00
-newmtl lambert4SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert7SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
 Ni 1.00
-newmtl lambert5SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert8SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
 Ni 1.00
-newmtl lambert6SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle2:lambert9SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
 Ni 1.00
-newmtl lambert7SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
-Ni 1.00
-newmtl lambert8SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd WoodTextMix2.jpg
-Ni 1.00
-newmtl lambert9SG
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Vehicle3:lambert2SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
